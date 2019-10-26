@@ -12,6 +12,7 @@ namespace HelloApp
 
             Console.Title = "Бля взломали демоны";
             string hello = "Привет Ярик,да я тебя взломал";
+
             ConsoleKeyInfo key;
             do
             {
